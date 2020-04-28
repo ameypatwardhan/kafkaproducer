@@ -1,6 +1,6 @@
-package com.techprimers.kafka.springbootkafkaproducerexample.resource;
+package com.example.kafka.springbootkafkaproducerexample.resource;
 
-import com.techprimers.kafka.springbootkafkaproducerexample.model.User;
+import com.example.kafka.springbootkafkaproducerexample.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.web.bind.annotation.GetMapping;
